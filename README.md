@@ -1,6 +1,6 @@
 # Text-Driven Pokemon Go Simulator
 
-This is one of the programming projects for CSE8B @UCSD.
+This is one of the programming projects for CSE 8B @UCSD.
 
 - `Item.java`: This is a super class. `Berry.java` and `Pokeball.java` are inherited from this Item class.
 - `Berry.java`: A class that inherits from `Item.java` and represents the berry that can increase the chance of catching the WildPokemons.
